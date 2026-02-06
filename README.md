@@ -1,5 +1,7 @@
 # Arcane-Odyssey-Fishing
-## Arcane odyssey is [against macros](https://roblox-arcane-odyssey.fandom.com/wiki/Game_Rules), use at your own risk.
+
+**Arcane odyssey is [against macros](https://roblox-arcane-odyssey.fandom.com/wiki/Game_Rules), use at your own risk.**
+
 An auto-fishing script for [Arcane Odyssey](https://www.roblox.com/games/3272915504/Arcane-Odyssey), made with [AutoHotKey 1.1.33.10 (AHK)](https://www.autohotkey.com/download/1.1/AutoHotkey_1.1.33.10_setup.exe)
 
 This script does not inject itself into the game in any way, a macro, if you will. It uses the ImageSearch function in AHK, and mimics the inputs of the player with AHK.
@@ -12,9 +14,12 @@ This script was designed for 1080p monitors, and uses absolute coordinates for t
 - Turn on shift lock, set graphics to 1, to reduce possible sources that can trigger the script.
 - Put fishing rod in the hotbar under number 3, or change the script to the desired number. (Replace the 3 on lines 23, 25, 32, 34)
 - The script starts paused.
+- The script will display a tooltip near the top of the screen, when it does something. Good for a quick check to see if it works.
 - PageUp - Pauses/Unpauses the script
 - PageDown - Exits the script
 - Home - Reloads the script.
+
+**Do not turn your monitor off, as this prevents AHK from using ImageSearch.**
 
 The overheating status triggers the script, so avoid islands with it to maximize fish/hr.
 
