@@ -28,3 +28,5 @@ This script will not work in the dark sea, as the vfx there trigger it too.
 This script was created before the addition of bait, so we can only hope that Vetex makes the selected bait stay after unequipping and equipping the fishing rod.
 
 Also, repeated casting slowly moves you left in game, so if you can, try to wedge yourself somewhere to prevent interruptions.
+
+You can compile the script into an .exe, if you want, but you would still need to keep it in the folder with the images.
